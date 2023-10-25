@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 5500 4000" style="enable-background:new 0 0 5500 4000;" xml:space="preserve">
+    <style type="text/css">
+        .st0 { fill: #1D1D1B; }
+    </style>
+    <circle cx="2750" cy="2000" r="2000" fill="#FFFFFF" />
+    <g>
+        <polygon class="st0" points="2273.95,3499.21 2313.4,3521.99 2685.06,2878.34 2903.49,2878.34 2903.49,2411.03" />
+        <polygon class="st0" points="2596.87,2703.53 3870.14,500.79 3830.69,478.01 3391.04,1239.41 3090.22,1239.41 2750.73,1831.11 2412.2,1239.41 2059.25,1239.41 2596.87,2174.9" />
+    </g>
+</svg>
